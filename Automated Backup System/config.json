@@ -1,0 +1,10 @@
+{
+  "source_folders": ["C:/Users/user/Documents", "C:/Users/user/Projects"],
+  "destination_folder": "C:/Backups",
+  "keep_last_n_backups": 5,
+  "backup_interval_hours": 6,
+  "telegram": {
+    "bot_token": "",
+    "chat_id": ""
+  }
+}

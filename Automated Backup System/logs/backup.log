@@ -1,0 +1,45 @@
+2026-06-27 17:12:28 [INFO] ============================================================
+2026-06-27 17:12:28 [INFO] Automated Backup System — starting backup
+2026-06-27 17:12:28 [INFO] ============================================================
+2026-06-27 17:12:28 [INFO] Telegram notifications disabled (no token/chat_id configured).
+2026-06-27 17:12:28 [INFO] Sources   : ['C:/Users/user/Documents', 'C:/Users/user/Projects']
+2026-06-27 17:12:28 [INFO] Destination: C:\Backups
+2026-06-27 17:12:28 [INFO] Archive   : backup_2026-06-27_17-12.zip
+2026-06-27 17:12:28 [INFO] Keep last : 5 backups
+2026-06-27 17:12:28 [WARNING] Source folder not found, skipping: C:/Users/user/Documents
+2026-06-27 17:12:28 [WARNING] Source folder not found, skipping: C:/Users/user/Projects
+2026-06-27 17:12:28 [INFO] ------------------------------------------------------------
+2026-06-27 17:12:28 [INFO] BACKUP SUMMARY
+2026-06-27 17:12:28 [INFO]   Archive  : backup_2026-06-27_17-12.zip
+2026-06-27 17:12:28 [INFO]   Files    : 0
+2026-06-27 17:12:28 [INFO]   Size     : 22.00 B
+2026-06-27 17:12:28 [INFO]   Duration : 0.0s
+2026-06-27 17:12:28 [INFO] ------------------------------------------------------------
+2026-06-27 17:12:28 [INFO] Backup completed successfully.
+2026-06-27 17:12:29 [INFO] ============================================================
+2026-06-27 17:12:29 [INFO] Automated Backup System — starting backup
+2026-06-27 17:12:29 [INFO] *** DRY-RUN MODE — no files will be written ***
+2026-06-27 17:12:29 [INFO] ============================================================
+2026-06-27 17:12:29 [INFO] Telegram notifications disabled (no token/chat_id configured).
+2026-06-27 17:12:29 [INFO] Sources   : ['C:/Users/user/Documents', 'C:/Users/user/Projects']
+2026-06-27 17:12:29 [INFO] Destination: C:\Backups
+2026-06-27 17:12:29 [INFO] Archive   : backup_2026-06-27_17-12.zip
+2026-06-27 17:12:29 [INFO] Keep last : 5 backups
+2026-06-27 17:12:29 [WARNING] [DRY-RUN] Source folder not found, skipping: C:/Users/user/Documents
+2026-06-27 17:12:29 [WARNING] [DRY-RUN] Source folder not found, skipping: C:/Users/user/Projects
+2026-06-27 17:12:29 [INFO] [DRY-RUN] Would create archive: C:\Backups\backup_2026-06-27_17-12.zip
+2026-06-27 17:12:29 [INFO] ------------------------------------------------------------
+2026-06-27 17:12:29 [INFO] BACKUP SUMMARY
+2026-06-27 17:12:29 [INFO]   Archive  : backup_2026-06-27_17-12.zip
+2026-06-27 17:12:29 [INFO]   Files    : 0
+2026-06-27 17:12:29 [INFO]   Size     : 22.00 B
+2026-06-27 17:12:29 [INFO]   Duration : 0.0s
+2026-06-27 17:12:29 [INFO] ------------------------------------------------------------
+2026-06-27 17:12:29 [INFO] Backup completed successfully.
+2026-06-27 17:12:30 [INFO] ============================================================
+2026-06-27 17:12:30 [INFO] Automated Backup System — Scheduler started
+2026-06-27 17:12:30 [INFO] Backup interval: every 6.0 hour(s)
+2026-06-27 17:12:30 [INFO] Press Ctrl+C to stop.
+2026-06-27 17:12:30 [INFO] ============================================================
+2026-06-27 17:12:30 [INFO] Next backup scheduled in 6.0 hour(s).
+2026-06-27 17:12:49 [INFO] Scheduler stopped by user (Ctrl+C).
